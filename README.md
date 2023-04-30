@@ -1,6 +1,6 @@
 # Population Estimation from Satellite Imagery
 
-Welcome! This is the repository for a full replication set, including code, documentation and data, of my thesis **"Earth Observation for Sustainable Development: A Deep Learning Approach to Urban Population Estimation from Satellite Imagery"** for the Master of Data Science for Public Policy (M.Sc.) at the Hertie School. My thesis was submitted on May 1, 2023.
+Welcome! This is the repository for my thesis **"Earth Observation for Sustainable Development: A Deep Learning Approach to Urban Population Estimation from Satellite Imagery"** for the Master of Data Science for Public Policy (M.Sc.) at the Hertie School. My thesis was submitted on May 1, 2023.
 
 ## Abstract
 
