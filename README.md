@@ -10,6 +10,10 @@ My thesis introduces a deep learning approach to estimate urban population distr
 
 The results reveal that, when local training data is available, the deep learning model is able to predict population counts with good accuracy that is largely comparable to existing studies. However, its generalizability to unseen data outside of the training area is limited and bias is observed in that the model underestimates densely populated areas and overestimates sparsely populated areas. While my thesis provides recommendations to inform future research, the results demonstrate that satellite imagery can be effective in combination with deep learning to transcend the reliance on census data, provide population mapping services and support policies for sustainable development.
 
+## Deep Learning Framework for Population Estimation
+
+![alt text](https://github.com/f-winkler/pop-estimation/blob/main/figures/framework.png)
+
 ## Data for download
 
 Data that was too big to upload on GitHub is available for download here: https://drive.google.com/drive/folders/1umzjgIaTiIUdAdZ708tGPGKW-PAk6bwB?usp=sharing
